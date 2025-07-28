@@ -7,7 +7,7 @@
         build: <+input>
   stages:
     - stage:
-        name: "build test and run "
+        name: "build test and run test"
         identifier: build_test_and_run
         description: ""
         type: CI
