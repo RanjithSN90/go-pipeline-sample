@@ -7,7 +7,7 @@
         build: <+input>
   stages:
     - stage:
-        name: "build test and run testtrigger"
+        name: "build test and run testtrigger push"
         identifier: build_test_and_run
         description: ""
         type: CI
